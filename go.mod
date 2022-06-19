@@ -1,4 +1,4 @@
-module github.com/zserge/lorca
+module github.com/PandaManPMC/lorca-gui
 
 go 1.18
 
