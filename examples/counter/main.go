@@ -3,6 +3,7 @@ package main
 import (
 	"embed"
 	"fmt"
+	"github.com/PandaManPMC/lorca-gui"
 	"log"
 	"net"
 	"net/http"
@@ -10,8 +11,6 @@ import (
 	"os/signal"
 	"runtime"
 	"sync"
-
-	"github.com/zserge/lorca"
 )
 
 //go:embed www
