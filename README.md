@@ -1,3 +1,6 @@
+
+
+
 # Lorca
 
 [![Build Status](https://img.shields.io/github/workflow/status/zserge/lorca/CI%20Pipeline)](https://github.com/zserge/lorca)
@@ -17,6 +20,11 @@
 <br/>
 </div>
 
+## 引入
+
+```
+	go get github.com/PandaManPMC/lorca-gui
+```
 
 ## Features
 
